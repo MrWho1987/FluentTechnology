@@ -1,0 +1,18 @@
+INSERT INTO grant_categories (category_name) VALUES ('Education');
+INSERT INTO grant_categories (category_name) VALUES ('Health');
+INSERT INTO grant_categories (category_name) VALUES ('Technology');
+INSERT INTO grant_categories (category_name) VALUES ('Social Welfare');
+INSERT INTO personalized_content_preferences (preference_name) VALUES ('News and Updates');
+INSERT INTO personalized_content_preferences (preference_name) VALUES ('Success Stories');
+INSERT INTO personalized_content_preferences (preference_name) VALUES ('Upcoming Events');
+INSERT INTO personalized_content_preferences (preference_name) VALUES ('Grant Writing Tips');
+INSERT INTO personalized_content_preferences (preference_name) VALUES ('Case Studies');
+INSERT INTO preferred_communication_methods (method) VALUES ('Email');
+INSERT INTO preferred_communication_methods (method) VALUES ('SMS');
+INSERT INTO preferred_communication_methods (method) VALUES ('Phone Call');
+INSERT INTO preferred_communication_methods (method) VALUES ('Social Media');
+INSERT INTO organization_types (type_name) VALUES ('Educational Institution');
+INSERT INTO organization_types (type_name) VALUES ('Government Entity');
+INSERT INTO organization_types (type_name) VALUES ('Non-Profit Organization');
+INSERT INTO organization_types (type_name) VALUES ('Research Institute');
+INSERT INTO organization_types (type_name) VALUES ('Community Group');

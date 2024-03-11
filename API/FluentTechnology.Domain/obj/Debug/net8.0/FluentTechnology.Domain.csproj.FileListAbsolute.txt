@@ -1,0 +1,11 @@
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Domain\bin\Debug\net8.0\FluentTechnology.Domain.deps.json
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Domain\bin\Debug\net8.0\FluentTechnology.Domain.dll
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Domain\bin\Debug\net8.0\FluentTechnology.Domain.pdb
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Domain\obj\Debug\net8.0\FluentTechnology.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Domain\obj\Debug\net8.0\FluentTechnology.Domain.AssemblyInfoInputs.cache
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Domain\obj\Debug\net8.0\FluentTechnology.Domain.AssemblyInfo.cs
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Domain\obj\Debug\net8.0\FluentTechnology.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Domain\obj\Debug\net8.0\FluentTechnology.Domain.dll
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Domain\obj\Debug\net8.0\refint\FluentTechnology.Domain.dll
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Domain\obj\Debug\net8.0\FluentTechnology.Domain.pdb
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Domain\obj\Debug\net8.0\ref\FluentTechnology.Domain.dll

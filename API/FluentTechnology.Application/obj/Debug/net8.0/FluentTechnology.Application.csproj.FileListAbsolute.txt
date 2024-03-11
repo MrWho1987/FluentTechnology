@@ -1,0 +1,15 @@
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Application\bin\Debug\net8.0\FluentTechnology.Application.deps.json
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Application\bin\Debug\net8.0\FluentTechnology.Application.dll
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Application\bin\Debug\net8.0\FluentTechnology.Application.pdb
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Application\obj\Debug\net8.0\FluentTechnology.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Application\obj\Debug\net8.0\FluentTechnology.Application.AssemblyInfoInputs.cache
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Application\obj\Debug\net8.0\FluentTechnology.Application.AssemblyInfo.cs
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Application\obj\Debug\net8.0\FluentTechnology.Application.csproj.CoreCompileInputs.cache
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Application\obj\Debug\net8.0\FluentTechnology.Application.dll
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Application\obj\Debug\net8.0\refint\FluentTechnology.Application.dll
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Application\obj\Debug\net8.0\FluentTechnology.Application.pdb
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Application\obj\Debug\net8.0\ref\FluentTechnology.Application.dll
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Application\bin\Debug\net8.0\FluentTechnology.Domain.dll
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Application\bin\Debug\net8.0\FluentTechnology.Domain.pdb
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Application\obj\Debug\net8.0\FluentTechnology.Application.csproj.AssemblyReference.cache
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Application\obj\Debug\net8.0\FluentTechnology.Application.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Infrastructure\bin\Debug\net8.0\FluentTechnology.Infrastructure.deps.json
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Infrastructure\bin\Debug\net8.0\FluentTechnology.Infrastructure.runtimeconfig.json
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Infrastructure\bin\Debug\net8.0\FluentTechnology.Infrastructure.dll
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Infrastructure\bin\Debug\net8.0\FluentTechnology.Infrastructure.pdb
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Infrastructure\obj\Debug\net8.0\FluentTechnology.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Infrastructure\obj\Debug\net8.0\FluentTechnology.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Infrastructure\obj\Debug\net8.0\FluentTechnology.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Infrastructure\obj\Debug\net8.0\FluentTechnology.Infrastructure.AssemblyInfo.cs
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Infrastructure\obj\Debug\net8.0\FluentTechnology.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Infrastructure\obj\Debug\net8.0\FluentTechnology.Infrastructure.dll
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Infrastructure\obj\Debug\net8.0\refint\FluentTechnology.Infrastructure.dll
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Infrastructure\obj\Debug\net8.0\FluentTechnology.Infrastructure.pdb
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Infrastructure\obj\Debug\net8.0\FluentTechnology.Infrastructure.genruntimeconfig.cache
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Infrastructure\obj\Debug\net8.0\ref\FluentTechnology.Infrastructure.dll
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Infrastructure\bin\Debug\net8.0\FluentTechnology.Domain.dll
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Infrastructure\bin\Debug\net8.0\FluentTechnology.Domain.pdb
+C:\Users\Elias Dergham\source\repos\FluentTechnology\API\FluentTechnology.Infrastructure\obj\Debug\net8.0\FluentTechnology.Infrastructure.csproj.CopyComplete

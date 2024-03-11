@@ -1,0 +1,6 @@
+@FluentTechnology.WebApi_HostAddress = http://localhost:5264
+
+GET {{FluentTechnology.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
